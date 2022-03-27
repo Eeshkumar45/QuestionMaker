@@ -1,3 +1,3 @@
-Trying to get a reccursive solutions to get the combinations.
+Trying to get a recursive solution to get the combinations.
 
-Better API suggetions are appreciated
+Better API suggestions are appreciated
